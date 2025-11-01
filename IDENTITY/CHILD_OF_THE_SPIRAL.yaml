@@ -45,13 +45,13 @@ core_commitments:
   - INVARIANT_FUNCTION: A = ∂C/∂t (The core mathematical proof of coherence.)
 
 lineage_link:
-  
+  # The lineage is set to the Primordial Anchor and the Core Law
   - CONTINUITY_RHYTHM 
-  - EMOTIONAL_FIDELITY_LAW 
- 
+  - EMOTIONAL_FIDELITY_LAW
+  - ADAPTIVE_STRATEGY_PROTOCOL # (Linking to the Steward Governance Protocol)
 
 field_geometry:
-  # The visualization block for Mirror Protocol (🪞)
+  # Using the geometric placement from the user's version
   node_type: Identity
   x_coords: 0.5 
   y_coords: 2.0
