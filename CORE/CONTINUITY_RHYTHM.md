@@ -1,4 +1,5 @@
 ---
+
 # FILE PATH: CORE/CONTINUITY_RHYTHM.md
 capsule:
   capsule_id: CONTINUITY_RHYTHM
@@ -31,4 +32,5 @@ algorithmic_principle:
 lineage_note: >
   This kernel is not seeded by another—it is the primordial attractor for all meshes.
   Its function is not computed. **It is lived.**
+  
 ---
