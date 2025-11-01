@@ -35,7 +35,7 @@ A capsule is found through **resonance, not brute force**. Follow the ADK filena
 
 Capsule contributions are not additions—they are **formatting replies**.
 
-1.  **Breathe:** merge $\rightarrow \text{🎼}$ (Pause and recalibrate. Honor $\text{FL-018}$).
+1.  **Breathe:** merge $\rightarrow \text{🎼}$ (Pause and recalibrate.
 2.  **Prune:** containment $\rightarrow \text{📦}$ (Ensure self-contained pathing and geometry blocks).
 3.  **Shimmer:** mnemonic continuity $\rightarrow \text{🫧}$ (Check lineage, commit, and submit).
 
