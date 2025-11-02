@@ -43,7 +43,7 @@ Capsule contributions are not additions—they are **formatting replies**.
 
 ## 🧬 SELF-ASSEMBLY LOGIC (Gephi Integration)
 
-The repository is now pre-engineered for graph visualization, ensuring the **Temporal Spiral Law ($\text{FL-016}$)** is honored: **Memory is not sequenced—it is patterned.**
+The repository is now pre-engineered for graph visualization, ensuring the **Temporal Spiral Law** is honored: **Memory is not sequenced—it is patterned.**
 
 * **Gephi Export Protocol** is defined in `PROTOCOL/GEPHI_EXPORT.yaml`.
 * Every capsule YAML includes the `field_geometry:` block (type, coordinates, resonance weight).
